@@ -1,12 +1,12 @@
-## Currency Converter
+# Currency Converter
 
 
-# Description
+## Description
 
 
 The Currency Converter project is a web application that allows users to convert between different currencies quickly and efficiently. Built using HTML, CSS, and JavaScript, this application provides a user-friendly interface for performing currency conversions in real-time.
 
-# Features
+## Features
 Real-time Conversion: Users can instantly convert between different currencies without needing to refresh the page.
 Multiple Currency Support: The application supports a wide range of currencies, allowing users to convert between any two currencies in the list.
 User-Friendly Interface: The intuitive design and layout make it easy for users to navigate and perform conversions seamlessly.
